@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#283C50</color>
+    <color name="purple_500">#283C50</color>
+    <color name="purple_700">#283C50</color>
+    <color name="teal_200">#283C50</color>
+    <color name="teal_700">#283C50</color>
+
+
+    <color name="colorPrimary">#1469AA</color>
+    <color name="colorPrimaryDark">#283C50</color>
+
+
+    <color name="colorAccent">#1469AA</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blackText">#43444c</color>
+    <color name="blue">#283C50</color>
+    <color name="darkblue">#283C50</color>
+    <color name="blueDown">#283C50</color>
+    <color name="grayLine">#ecf0f1</color>
+    <color name="grayTag">#ebebeb</color>
+    <color name="grayText">#a2abb3</color>
+    <color name="edittextborder">#80a2abb3</color>
+    <color name="loaderBackground">#CBFFF7F7</color>
+    <color name="errorRed">#ff524e</color>
+    <color name="green">#29c368</color>
+    <color name="divider_menu">#80d8d8d8</color>
+    <color name="titleBlack">#283C50</color>
+
+    <color name="gradientTop">#f1f4fb</color>
+    <color name="gradientCenter">#f1f4fb</color>
+    <color name="gradientBottom">#ffffff</color>
+</resources>
